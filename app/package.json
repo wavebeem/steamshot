@@ -14,7 +14,7 @@
     "fs-extra": "^5.0.0",
     "glob": "^7.1.2",
     "react": "^16.2.0",
-    "react-dom": "^16.2.0",
+    "react-dom": "^16.2.1",
     "sanitize-filename": "^1.6.0"
   }
 }
